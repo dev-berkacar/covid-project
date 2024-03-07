@@ -4,6 +4,10 @@ Projeyi cloneladıktan sonra, npm install yapın. Ardından npm run dev yaparak 
 
 Eğer test caselerine bakılacak ise, npm test ile denenebilir.
 
+Docker'a atmak için, docker build . -t "sample-project:v1.0" olarak kayıt ettim ve docker üzerinden çalıştırdım.
+
+Docker'a hakim olmadığım için, bir sorun çıkarsa diye netlify üzerine de deployu yaptım. Onuda GitHub reponun sağ tarafına linkini bırakıyorum.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
